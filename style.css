@@ -1,0 +1,17 @@
+* {
+    background-color: green;
+}
+
+h1,
+h3 {
+    color: white;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: gold;
+    text-decoration: none;
+}

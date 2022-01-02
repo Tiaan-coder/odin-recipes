@@ -1,0 +1,15 @@
+* {
+    background-color: green;
+}
+
+h1,
+h3,
+h4,
+p {
+    color: white;
+}
+
+a {
+    color: gold;
+    text-decoration: none;
+}
